@@ -4,5 +4,6 @@ npm-debug.log
 .DS_Store
 
 # IntelliJ
+# Atom
 *.iml
 /.idea
